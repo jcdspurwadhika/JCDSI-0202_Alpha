@@ -117,7 +117,7 @@ To replicate the analysis or run the application locally, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-   git clone [https://github.com/faris712/Purwadhika-Final-Project-Bank-Marketing-Campaign.git](https://github.com/faris712/Purwadhika-Final-Project-Bank-Marketing-Campaign.git)
+   git clone [https://github.com/jcdspurwadhika/JCDSI-0202_Alpha.git](https://github.com/jcdspurwadhika/JCDSI-0202_Alpha.git)
     ```
 
 2.  **Install Dependencies:**
